@@ -1,8 +1,8 @@
 * Fall 2022 - 127 - Work
-* Name: 
+* Name: Zara Amer
 
-* GitHub username: 
+* GitHub username: zaraamerr
 
-* Notes:
+* Notes: Derek helped with my MadLibs project by explaining how to use random.choice to ensure that the parts of speech are randomized throughout my story. Special thanks to Emily, Mohammed, and Thomas for also trying to help.
 
 * Create folders and files as specified per assignment
